@@ -45,7 +45,7 @@ This dashboard provides actionable insights for financial performance, helping b
   - Store 2: $6M
   - Store 3: $20M
   - Store 4: $28M
-  - Store 5: $12M  
+  - Store 5: $12M
 **Tools & Technologies Used:**
 - **Power BI** for data visualization and dashboard creation.
 - Data aggregation and analysis to uncover key business insights.
