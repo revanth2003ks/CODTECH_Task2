@@ -12,11 +12,11 @@ Duration : October 5th November 5th,2024
 
 Mentor : Neela Santhosh Kumar
 
-Overview of the project
+**Overview of the project**
 
-Project : Financial Analysis dashboard
+**Project**: Financial Analysis dashboard
 
-Objective:
+**Objective:**
 
 The objective of this project is to Build a financial analysis dashboard to track key financial metrics such as revenue,expenses,and profit margin.
 This dashboard provides actionable insights for financial performance, helping businesses make data-driven decisions. I used Power BI to transform raw data into meaningful, interactive visualizations.
