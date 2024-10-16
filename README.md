@@ -18,7 +18,7 @@ Project : Financial Analysis dashboard
 Objective:
 
 The objective of this project is to Build a financial analysis dashboard to track key financial metrics such as revenue,expenses,and profit margin.
-Here’s a structured way to present your Power BI sales analysis dashboard project on LinkedIn:
+
 
 
  🔑 **Key Insights:**
